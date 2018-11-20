@@ -1,1 +1,3 @@
-# fcc-product-landing-page
+# Product landing page project
+
+## Part of the freeCodeCamp's Web Design projects
